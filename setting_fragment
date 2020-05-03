@@ -1,0 +1,14 @@
+package com.example.myapplication;
+
+import android.os.Bundle;
+import android.preference.PreferenceActivity;
+import android.preference.PreferenceFragment;
+
+public class First2Fragment extends PreferenceActivity {
+
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        addPreferencesFromResource(R.xml.quiz_preference);
+    }
+}
