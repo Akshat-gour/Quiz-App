@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Animal Quiz</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="number_of_guesses_title">Number of guesses</string>
+    <string name="number_of_guesses_description">Show 2,4 or 6 Guess Option</string>
+    <string name="animal_types_tittle">Animals</string>
+    <string name="animals_types_description">Type of animal that can be include in Quiz</string>
+    <string name="choose_background_color">Choose Background Color</string>
+    <string name="choose_color_description">Choose one of this colors as background Color</string>
+    <string name="default_color_black">Black</string>
+    <string name="choose_font">Font for Quiz</string>
+    <string name="choose_font_description">Choose one of these fonts for quiz</string>
+    <string name="default_font">Chunkfive.otf</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="question_text">This is Animal %1$d of %2$d</string>
+    <string name="results_string_value">%1$d number of guesses and %2$0.02f%% correct</string>
+    <string name="reset_animal_quiz">Restart Animal Quiz</string>
+    <string name="wrong_answer_message">No!</string>
+    <string name="default_animal_type">Wild_Animals</string>
+    <string name="defaultanimaltypemessage">one type of animal must be selected default value is Wild Animals</string>
+    <string name="toast">New changes are applied!!</string>
+</resources>
